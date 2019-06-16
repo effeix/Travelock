@@ -1,0 +1,26 @@
+{
+  "name": "travelock",
+  "version": "1.0.0",
+  "description": "Intelligent system for booking flight sits using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoefeiche/Travelock.git"
+  },
+  "author": "Gustavo Efeiche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoefeiche/Travelock/issues"
+  },
+  "homepage": "https://github.com/gustavoefeiche/Travelock#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "truffle": "^4.1.15"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.4.3"
+  }
+}
