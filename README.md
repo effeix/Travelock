@@ -34,5 +34,5 @@ $ python -m solc.install v0.4.25
 
 and the set the path to the new version
 ```sh
-$ export SOLC_BINARY=/home/ge/.py-solc/solc-v0.4.25/bin/solc
+$ export SOLC_BINARY=$HOME/.py-solc/solc-v0.4.25/bin/solc
 ```
