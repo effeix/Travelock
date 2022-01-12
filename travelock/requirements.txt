@@ -23,7 +23,7 @@ lru-dict==1.1.6
 MarkupSafe==1.1.1
 marshmallow==2.19.2
 parsimonious==0.8.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 py-solc==3.2.0
 pycryptodome==3.8.2
 pytz==2019.1
