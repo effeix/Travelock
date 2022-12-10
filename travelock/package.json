@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gustavoefeiche/Travelock#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "truffle": "^4.1.15"
   },
   "devDependencies": {
