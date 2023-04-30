@@ -18,9 +18,9 @@
   "homepage": "https://github.com/gustavoefeiche/Travelock#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "truffle": "^4.1.15"
+    "truffle": "^5.8.4"
   },
   "devDependencies": {
-    "ganache-cli": "^6.4.3"
+    "ganache-cli": "^6.12.2"
   }
 }
