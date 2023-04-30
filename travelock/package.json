@@ -21,6 +21,6 @@
     "truffle": "^4.1.15"
   },
   "devDependencies": {
-    "ganache-cli": "^6.4.3"
+    "ganache-cli": "^6.12.2"
   }
 }
